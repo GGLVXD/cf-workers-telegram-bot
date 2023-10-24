@@ -14,7 +14,7 @@ to your wrangler.toml and initailize it with the schema.sql
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/codebam/cf-workers-telegram-bot)
 
-To use the deploy button:
+To use the deploy button:uwu
 
 - Click the deploy button
 - Navigate to your new **GitHub repository &gt; Settings &gt; Secrets** and add the following secrets:
