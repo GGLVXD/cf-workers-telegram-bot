@@ -12,4 +12,4 @@ binding = "AI"
 [[d1_databases]]
 binding = "DB"
 database_name = "llama2"
-database_id = "e24eb37b-6b13-4e84-b1af-63de0dedcc6d"
+database_id = "fa17c5f4-e6dd-4e19-8373-adaab6328c78"
